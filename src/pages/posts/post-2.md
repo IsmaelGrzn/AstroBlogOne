@@ -1,12 +1,13 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Mi segunda publicación en el blog
-author: Alumno de Astro
-description: "Después de aprender un poco de Astro, ¡no podía parar!"
+title: My Second Blog Post
+author: Astro Learner
+description: "After learning some Astro, I couldn't stop!"
 image:
-    url: "https://docs.astro.build/assets/arc.webp"
-    alt: "Miniatura de los arcos de Astro."
+  url: "https://docs.astro.build/assets/arc.webp"
+  alt: "Thumbnails of websites from the Astro Showcase site."
 pubDate: 2022-07-08
-tags: ["astro", "bloguear", "aprender en público", "éxitos"]
+tags: ["astro", "blogging", "learning in public", "successes"]
 ---
-Después de una exitosa primera semana aprendiendo Astro, decidí probar un poco más. Escribí e importé un pequeño componente de memoria.
+
+After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
